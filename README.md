@@ -6,7 +6,7 @@ In this repo you will find the following files:
 * My [powerpoint presentation](https://github.com/S-DeFerrari/Vaccine-Tweets-NLP/blob/main/Vaccine-Tweets-NLP.pdf) on this project going over each step of the process as well as my results. This is the best place to start.
 * The [jupyter notebook](https://github.com/S-DeFerrari/Vaccine-Tweets-NLP/blob/main/Vaccine%20NLP.ipynb) I used for this project.
 
-The [data](https://www.kaggle.com/kaushiksuresh147/covidvaccine-tweets) for this project comes from Kaggle.com.
+The [data](https://www.kaggle.com/kaushiksuresh147/covidvaccine-tweets) for this project comes from Kaggle.com along with a batch collected by myself.
 
 ## Tableau Dashboard
 ![Screenshot](vaccine_dash.png)
